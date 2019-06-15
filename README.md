@@ -1,2 +1,2 @@
 # Certificate_generator
-It generates the certificate
+By the help of pillow library which do image manipulation,it creates a certificate according to user information in correct format.
